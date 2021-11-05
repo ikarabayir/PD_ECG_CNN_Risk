@@ -13,7 +13,7 @@ from scipy import signal
 import pandas as pd 
 import keras
 
-thr = 0.13397683
+thr = 0.139
 print ('Models are loading..!')
 #models = glob.glob('Model_CNN\*.h5') #CNN models
 model = 'Model_CNN/Settled_3_yearX_pd_visit_count2_v499_10_5_12.h5'
