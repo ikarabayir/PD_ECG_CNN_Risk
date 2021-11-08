@@ -15,9 +15,10 @@ Externally Validated Artificial Intelligence Model to Identify Parkinson’s Dis
 
 
 # Getting Started
-1. The python versions and libraries you have should meet above.
+1. Required Python versions and libraries are listed above. 
 2. Get the code $ git clone the repo and install the dependencies
-3. For 10 year predicted risk scores and labels, execute below in the local repo directory,
+3. For 10 year predicted risk scores and labels, execute the code below in the local repo directory
+4. Please make sure that your input ECG follows the format provided here. e.g. 12-Lead, 10 seconds, at 500Hz. following the lead order of: I, II, III, aVR, aVL, aVF, V1, V2, V3, V4, V5, V6
 
 python Github-ECG-AI_PD_Risk_Prediction.py sample_ECG.npy
 
