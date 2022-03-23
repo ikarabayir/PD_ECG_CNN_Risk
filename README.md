@@ -1,5 +1,5 @@
 # ECG-AI_PD_Risk_Prediction
-Externally Validated Artificial Intelligence Model to Identify Parkinson’s Disease at Prodromal Phase
+Externally Validated Artificial Intelligence Model to Identify Prodromal Parkinson’s Disease from ECG
 
 # Requirements
 
@@ -13,8 +13,10 @@ Externally Validated Artificial Intelligence Model to Identify Parkinson’s Dis
 * keras-applications        1.0.8           
 * keras-base                2.2.4
 
-
 # Getting Started
+
+In this repo, you'll find a pretrained TF model to predict Parkinson’s Disease using 12-Lead, 10 seconds ECG. 
+
 1. Required Python versions and libraries are listed above. 
 2. Get the code $ git clone the repo and install the dependencies
 3. For 10 year predicted risk scores and labels, execute the code below in the local repo directory
@@ -29,7 +31,7 @@ The py file would provide risk scores and labels to your local directory as csv 
 If you find this code useful, please cite the following paper:
 
 Externally Validated Artificial Intelligence Model to Identify Parkinson’s Disease at Prodromal Phase
-Ibrahim karabayir, fatma gunturkun, Samuel goldman, rishikesan kamaleswaran, Robert l davis, kalea colletta, Katherine bobay, webb ross, helen Petrovitch, kamal masaki, Carolina tanner, oguz akbilgic*
+Ibrahim Karabayir, Fatma Gunturkun, Samuel M Goldman, Rishikesan Kamaleswaran, Robert L Davis, Kalea Colletta, Lokesh Chintala, John L Jefferies, Kathleen Bobay, Webb Ross, Helen Petrovitch, Kamal Masaki, Carolina Tanner, Oguz Akbilgic
 
 
 *Corresponding Author
