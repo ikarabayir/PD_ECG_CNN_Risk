@@ -13,9 +13,10 @@ Externally Validated Artificial Intelligence Model to Identify Prodromal Parkins
 * keras-applications        1.0.8           
 * keras-base                2.2.4
 
-# Getting Started
+# Interpretation 
+Using only a simple 10-second ECG we built a predictive model that correctly classified individuals with prodromal PD with moderate accuracy. The model was effective in an independent cohort, particularly closer to disease diagnosis. Standard ECGs may help to identify individuals with prodromal PD for inclusion in disease-modifying therapeutic trials.
 
-In this repo, you'll find a pretrained TF model to predict Parkinson’s Disease using 12-Lead, 10 seconds ECG. 
+# Getting Started
 
 1. Required Python versions and libraries are listed above. 
 2. Get the code $ git clone the repo and install the dependencies
@@ -32,10 +33,10 @@ If you find this code useful, please cite the following paper:
 
 Externally Validated Artificial Intelligence Model to Identify Prodromal Parkinson’s Disease from ECG
 
-Ibrahim Karabayir, Fatma Gunturkun, Samuel M Goldman, Rishikesan Kamaleswaran, Robert L Davis, Kalea Colletta, Lokesh Chintala, John L Jefferies, Kathleen Bobay, Webb Ross, Helen Petrovitch, Kamal Masaki, Carolina Tanner, Oguz Akbilgic
+Ibrahim Karabayir, Fatma Gunturkun, Samuel M Goldman*, Rishikesan Kamaleswaran, Robert L Davis, Kalea Colletta, Lokesh Chintala, John L Jefferies, Kathleen Bobay, Webb Ross, Helen Petrovitch, Kamal Masaki, Carolina Tanner, Oguz Akbilgic*
 
 
-*Corresponding Author
+*Corresponding Authors
 
 # Contact
 
