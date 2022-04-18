@@ -40,4 +40,4 @@ Ibrahim Karabayir, Fatma Gunturkun, Samuel M Goldman*, Rishikesan Kamaleswaran, 
 
 # Contact
 
-For any feedback, or bug report, please don't hesitate to the author, [Dr. Ibrahim Karabayir](mailto:ikarabayir34@gmail.edu?subject=[AI_PD_ECGModel])
+For any feedback, or bug report, please don't hesitate to contact with the author, [Dr. Ibrahim Karabayir](mailto:ikarabayir34@gmail.edu?subject=[AI_PD_ECGModel])
