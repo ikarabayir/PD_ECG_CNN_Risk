@@ -1,5 +1,5 @@
 # ECG-AI_PD_Risk_Prediction
-Externally Validated Artificial Intelligence Model to Identify Prodromal Parkinson’s Disease from ECG
+Externally Validated Deep Learning Model to Identify Prodromal Parkinson’s Disease from ECG
 
 # Requirements
 
