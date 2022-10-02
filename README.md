@@ -31,7 +31,7 @@ The py file would provide risk scores and labels to your local directory as csv 
 
 If you find this code useful, please cite the following paper:
 
-Externally Validated Artificial Intelligence Model to Identify Prodromal Parkinson’s Disease from ECG
+Externally Validated Deep Learning Model to Identify Prodromal Parkinson’s Disease from ECG
 
 Ibrahim Karabayir, Fatma Gunturkun, Samuel M Goldman*, Rishikesan Kamaleswaran, Robert L Davis, Kalea Colletta, Lokesh Chintala, John L Jefferies, Kathleen Bobay, Webb Ross, Helen Petrovitch, Kamal Masaki, Carolina Tanner, Oguz Akbilgic*
 
