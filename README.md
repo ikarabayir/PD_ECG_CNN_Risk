@@ -1,5 +1,6 @@
 # ECG-AI_PD_Risk_Prediction
-Externally Validated Deep Learning Model to Identify Prodromal Parkinson’s Disease from ECG
+Externally Validated Deep Learning Model to Identify Prodromal Parkinson’s Disease from Electrocardiogram![image](https://github.com/ikarabayir/PD_ECG_CNN_Risk/assets/16745311/247aec71-b6df-4a44-82b6-9b1393b8f1a9)
+
 
 # Requirements
 
@@ -20,7 +21,7 @@ Using only a simple 10-second ECG we built a predictive model that correctly cla
 
 1. Required Python versions and libraries are listed above. 
 2. Get the code $ git clone the repo and install the dependencies
-3. For 10 year predicted risk scores and labels, execute the code below in the local repo directory
+3. For the predicted risk scores and labels, execute the code below in the local repo directory
 4. Please make sure that your input ECG follows the format provided here. e.g. 12-Lead, 10 seconds, at 500Hz. following the lead order of: I, II, III, aVR, aVL, aVF, V1, V2, V3, V4, V5, V6
 
 python Github-ECG-AI_PD_Risk_Prediction.py sample_ECG.npy
@@ -33,7 +34,7 @@ If you find this code useful, please cite the following paper:
 
 Externally Validated Deep Learning Model to Identify Prodromal Parkinson’s Disease from ECG
 
-Ibrahim Karabayir, Fatma Gunturkun, Samuel M Goldman*, Rishikesan Kamaleswaran, Robert L Davis, Kalea Colletta, Lokesh Chintala, John L Jefferies, Kathleen Bobay, Webb Ross, Helen Petrovitch, Kamal Masaki, Carolina Tanner, Oguz Akbilgic*
+Ibrahim Karabayir, Fatma Gunturkun, Samuel M Goldman*, Rishikesan Kamaleswaran, Robert L Davis, Kalea Colletta, Lokesh Chintala, John L Jefferies, Kathleen Bobay, G. Webbster Ross, Helen Petrovitch, Kamal Masaki, Caroline M. Tanner, Oguz Akbilgic*
 
 
 *Corresponding Authors
